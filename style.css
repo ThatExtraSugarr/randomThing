@@ -1,3 +1,10 @@
 body{
   background-color: rgb(17, 216, 215);
 }
+
+.VfxButton{
+  height: 50px;
+  width: 150px;
+  text-align: center;
+  background-color: blue;
+}
