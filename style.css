@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(17, 216, 215);
+  background-color: rgb(54, 54, 54);
   dispaly: flex;
   justify-content: center;
   align-items: center;
@@ -7,8 +7,8 @@ body{
 
 .VfxButton{
   display: flex;
-  height: 100px;
-  width: 200px;
+  height: 50px;
+  width: 170px;
   text-align: center;
   background-color: rgba(24, 176, 138, 0.7);
   align-items: center;
